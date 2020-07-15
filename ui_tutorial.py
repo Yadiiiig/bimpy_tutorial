@@ -38,7 +38,7 @@ if __name__ == "__main__":
 
             ### Basic printing what you write from an input: ###
             
-            # This will always show the text you put inside the input box (Explanation of .value at line 55)
+            # This will always show the text you put inside the input box (Explanation of .value at line 59)
             bimpy.text(first_input_text.value)
 
             # First we put a "title" which will show up behind the input box
